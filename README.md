@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working as Freelancer.
 - 💻 Worked as Software engineer intern @[wavenet](http://wavenetcorp.com/)
-- 🌱 I’m currently learning MERN Full Stack from [Edyoda](https://www.edyoda.com/)
-- 💼 I’m looking for a frontend developer job
+- 🌱 Currently learning MERN Full Stack from [Edyoda](https://www.edyoda.com/)
+- 💼 Looking for a frontend developer job
 - 🎓 Graduated from [PDM university](https://www.pdm.ac.in/) with bachelor's in Computer Science Engineering - IBM(specialization in Big Data).
 - 📫 How to reach me: princehira199930@gmail.com
 
