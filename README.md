@@ -1,6 +1,7 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prince!](https://www.linkedin.com/in/prince199930/)
 
-- 🔭 I’m currently working as Software engineer intern @[wavenet](http://wavenetcorp.com/)
+- 🔭 I’m currently working as Freelancer.
+- 💻 Worked as Software engineer intern @[wavenet](http://wavenetcorp.com/)
 - 🌱 I’m currently learning MERN Full Stack from [Edyoda](https://www.edyoda.com/)
 - 💼 I’m looking for a frontend developer job
 - 🎓 Graduated from [PDM university](https://www.pdm.ac.in/) with bachelor's in Computer Science Engineering - IBM(specialization in Big Data).
