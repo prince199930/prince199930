@@ -1,9 +1,11 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prince!](https://www.linkedin.com/in/prince199930/)
 
-- 🔭 Worked as an FullStack Developer at Volans Infomatics Pvt Ltd.
+- 🔭 Worked as a Frontend Developer(part-time) at EonLint.
+- 🔭 Worked as a Software Engineer at Mordor Intelligence.
+- 🔭 Worked as a FullStack Developer at EonLint.
 - 🔭 Worked as an Associate Consultant at Neudesic.
 - 💻 Worked as Software engineer intern @[wavenet](http://wavenetcorp.com/)
-- 🌱 Currently learning MERN Full Stack from [Edyoda](https://www.edyoda.com/)
+- 🌱 Completed MERN Full Stack from [Edyoda](https://www.edyoda.com/)
 - 💼 Looking for a frontend developer job
 - 🎓 Graduated from [PDM university](https://www.pdm.ac.in/) with bachelor's in Computer Science Engineering - IBM(specialization in Big Data).
 - 📫 How to reach me: princehira199930@gmail.com
