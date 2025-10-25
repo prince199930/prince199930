@@ -1,6 +1,6 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Prince!](https://www.linkedin.com/in/prince199930/)
 
-- 🔭 Working as a Frontend Developer(part-time) at EonLint.
+- 🔭 Working as a Frontend Developer at EonLint.
 - 🔭 Worked as a Software Engineer at Mordor Intelligence.
 - 🔭 Worked as a FullStack Developer at EonLint.
 - 🔭 Worked as an Associate Consultant at Neudesic.
